@@ -31,7 +31,7 @@
         "Percent": "22.86",
         "PandL": "-1377.6",
         "Return": "-7.41",
-        "Classification": "ETF"
+        "Classification": "MF"
     },
     {
         "Script": "KEMQ",
@@ -42,7 +42,7 @@
         "Percent": "21.89",
         "PandL": "-14740.64",
         "Return": "-8.26",
-        "Classification": "ETF"
+        "Classification": "MF"
     },
     {
         "Script": "KLDW",
