@@ -1,14 +1,74 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "stocks": [
+    {
+        "Script": "AADR",
+        "Quantity": "430",
+        "Price": "50.3",
+        "Cost": "41.75",
+        "Amount": "17952.07",
+        "Percent": "22.06",
+        "PandL": "3676.93",
+        "Return": "20.48",
+        "Classification": "MF"
+    },
+    {
+        "Script": "MFEM",
+        "Quantity": "210",
+        "Price": "23.2",
+        "Cost": "22.5",
+        "Amount": "4725.84",
+        "Percent": "5.81",
+        "PandL": "146.16",
+        "Return": "3.09",
+        "Classification": "MF"
+    },
+    {
+        "Script": "JPEM",
+        "Quantity": "328",
+        "Price": "52.5",
+        "Cost": "56.7",
+        "Amount": "18597.6",
+        "Percent": "22.86",
+        "PandL": "-1377.6",
+        "Return": "-7.41",
+        "Classification": "ETF"
+    },
+    {
+        "Script": "KEMQ",
+        "Quantity": "801",
+        "Price": "20.4",
+        "Cost": "22.24",
+        "Amount": "17811.04",
+        "Percent": "21.89",
+        "PandL": "-14740.64",
+        "Return": "-8.26",
+        "Classification": "MF"
+    },
+    {
+        "Script": "KLDW",
+        "Quantity": "523",
+        "Price": "32.9",
+        "Cost": "26.32",
+        "Amount": "13765.36",
+        "Percent": "16.92",
+        "PandL": "3441.34",
+        "Return": "25",
+        "Classification": "ETF"
+    },
+    {
+        "Script": "KOIN",
+        "Quantity": "335",
+        "Price": "25.4",
+        "Cost": "25.4",
+        "Amount": "8509",
+        "Percent": "10.46",
+        "PandL": "0",
+        "Return": "0",
+        "Classification": "ETF"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": { "name": "typicode" }
 }
